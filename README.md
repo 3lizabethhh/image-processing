@@ -1,13 +1,17 @@
 # image-processing
--------------------Description-------------------
+Description:
 Implements four basic image processing operations on a 2-dimensional digital image.
 Four operations are image thresholding,magnification,contouring and color inversion.
 
--------------------Prequisite-------------------
+Notable files:
+Main method in "ImageProcessing\ImageProcessing.java"
+Sample images are included ("dragon1.jpg" etc..)
+
+Prequisite:
 Eclipse IDE
 
--------------------Prepare for Deployment-------------------
-1 Have a configuration file  (...src\image.txt is the configuration file)
+Prepare for Deployment:
+1 Have a configuration file  (..src\image.txt is the configuration file)
 
   Format of content in config. file: "Color" + *space* + location of image to be processed + keyword of operation to be performed 
   Operation keywords:(Magnify,Thresholding,Contour,Inverse,Adjustment)
@@ -16,9 +20,9 @@ Eclipse IDE
   Color C:\Users\Eliza\ImageProcessing\face.jpg Magnify 
   Color C:\Users\Eliza\ImageProcessing\mug1.jpg Thresholding  
   
-2 Have an output folder (...src\output is output folder)
+2 Have an output folder (..src\output is output folder)
 
--------------------Deployment-------------------
+Deployment:
 1 Change configuration file (image location & operation keyword) according to desired image and deployment operation for image processing 
   
 2 Run the program->select image.txt as config. file->select output folder for output -> finished (processed image is in output folder) 
