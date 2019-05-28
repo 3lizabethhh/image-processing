@@ -1,7 +1,8 @@
 # image-processing
 ## Description:
-Implements four basic image processing operations on a 2-dimensional digital image.
+Implements four basic image processing operations on a 2-dimensional digital image using 2-dimensional arrays.
 Four operations are image thresholding,magnification,contouring and color inversion.
+
 
 ## Notable files:
 The main method is in "ImageProcessing\ImageProcessing.java"
