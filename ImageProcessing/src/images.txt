@@ -1,0 +1,1 @@
+Color C:\Users\Eliza\OneDrive\Documents\2018-19B\1027B\ImageProcessing\mug1.jpg Thresholding 
