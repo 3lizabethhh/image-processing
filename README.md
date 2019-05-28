@@ -20,11 +20,11 @@ Eclipse IDE
   Color C:\Users\Eliza\ImageProcessing\face.jpg Magnify 
   Color C:\Users\Eliza\ImageProcessing\mug1.jpg Thresholding  
   
-*Have an output folder (..src\output is output folder)
+*Have an output folder (..src\output is output folder)*
 
 ## Deployment:
-*Change configuration file (image location & operation keyword) according to desired image and deployment operation for image processing*
-*Run the program->select image.txt as config. file->select output folder for output -> finished (processed image is in output folder)*
+Change configuration file (image location & operation keyword) according to desired image and deployment operation for image processing:
+Run the program->select image.txt as config. file->select output folder for output -> finished (processed image is in output folder)
   
   Console should display: "Image file"+ location of image processed+"saved"  if successfully processed:
   
