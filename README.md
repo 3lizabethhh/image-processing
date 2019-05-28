@@ -11,7 +11,7 @@ Sample images are included ("dragon1.jpg" etc..)
 Eclipse IDE
 
 ## Prepare for Deployment:
-*Have a configuration file  (..src\image.txt is the configuration file)
+*Have a configuration file  (..src\image.txt is the configuration file)*
 
   Format of content in config. file: "Color" + *space* + location of image to be processed + keyword of operation to be performed 
   Operation keywords:(Magnify,Thresholding,Contour,Inverse,Adjustment)
@@ -23,8 +23,8 @@ Eclipse IDE
 *Have an output folder (..src\output is output folder)
 
 ## Deployment:
-*Change configuration file (image location & operation keyword) according to desired image and deployment operation for image processin
-*Run the program->select image.txt as config. file->select output folder for output -> finished (processed image is in output folder) 
+*Change configuration file (image location & operation keyword) according to desired image and deployment operation for image processing*
+*Run the program->select image.txt as config. file->select output folder for output -> finished (processed image is in output folder)*
   
   Console should display: "Image file"+ location of image processed+"saved"  if successfully processed:
   
